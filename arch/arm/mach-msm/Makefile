@@ -389,3 +389,4 @@ endif
 obj-$(CONFIG_MSM_CPU_PWRCTL) +=  msm_cpu_pwrctl.o
 
 obj-$(CONFIG_ARCH_RANDOM) += early_random.o
+obj-$(CONFIG_ALUCARD_HOTPLUG) += alucard_hotplug.o
